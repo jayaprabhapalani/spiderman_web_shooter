@@ -1,0 +1,5 @@
+Real-time hand detection - Track hand positions using webcam
+Gesture recognition - Detect the Spider-Man web-shooting gesture
+Web effect generation - Create animated web graphics
+Particle system - Make webs look dynamic with particles
+Sound effects - Add web-shooting sounds
